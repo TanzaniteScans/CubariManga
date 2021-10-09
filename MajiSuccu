@@ -61,6 +61,14 @@
       },
       "last_updated": "1630168701"
     },
+    "7.5": {
+      "title": "Chapter 7.5",
+      "volume": "",
+      "groups": {
+        "Tanzanite Scans": "/proxy/api/imgur/chapter/z6nJAwC/"
+      },
+      "last_updated": "1633799664"
+    },
     "8": {
       "title": "Chapter 8",
       "volume": "",
@@ -76,6 +84,14 @@
         "Tanzanite Scans": "/proxy/api/imgur/chapter/5P5g1pZ/"
       },
       "last_updated": "1632591096"
+    },
+    "10": {
+      "title": "Chapter 10",
+      "volume": "",
+      "groups": {
+        "Tanzanite Scans": "/proxy/api/imgur/chapter/OmUr3of/"
+      },
+      "last_updated": "1633799664"
     }
   }
 }
